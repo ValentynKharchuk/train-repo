@@ -3,7 +3,7 @@
 Clone repo:  
 ```
 $ git clone https://github.com/ValentynKharchuk/train-repo.git 
-$ cd train-repo
+$ cd UDSclub-learning
 ```
 Create virtualenv:
 ```
@@ -19,5 +19,3 @@ Now install required python packages:
 ```
 (virtual_env) $ pip install -r requirements.txt
 ```
-
-

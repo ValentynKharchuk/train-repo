@@ -2,7 +2,7 @@
 
 Clone repo:  
 ```
-$ git clone https://github.com/ValentynKharchuk/train-repo.git 
+$ git clone https://github.com/ValentynKharchuk/UDSclub-learning.git
 $ cd UDSclub-learning
 ```
 Create virtualenv:

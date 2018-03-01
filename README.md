@@ -1,4 +1,4 @@
-# Repo for homeworks
+# Repo for homeworks 
 
 Clone repo:  
 ```
@@ -19,3 +19,4 @@ Now install required python packages:
 ```
 (virtual_env) $ pip install -r requirements.txt
 ```
+Enjoy!

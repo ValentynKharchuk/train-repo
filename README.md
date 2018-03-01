@@ -5,7 +5,7 @@ Clone repo:
 $ git clone https://github.com/ValentynKharchuk/UDSclub-learning.git
 $ cd UDSclub-learning
 ```
-Create virtualenv:
+Create nothing:
 ```
 $ virtualenv -p python3 virtual_env
 ```

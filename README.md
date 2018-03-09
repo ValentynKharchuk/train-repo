@@ -20,4 +20,4 @@ Now install required python packages:
 (virtual_env) $ pip install -r requirements.txt
 ```
 
-New README for dev branch.
+Enjoy!

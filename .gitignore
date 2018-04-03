@@ -1,3 +1,4 @@
 my_env/
 */*.csv
-home_work_5/bagging_model
+home_work_5/*
+!home_work_5/homework_5.ipynb

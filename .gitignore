@@ -1,1 +1,5 @@
 my_env/
+*/*.csv
+home_work_5/*
+!home_work_5/homework_5.ipynb
+home_work_7/*.xlsx
